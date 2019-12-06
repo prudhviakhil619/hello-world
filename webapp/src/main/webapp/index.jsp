@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Welcome to tomcat </h1>py 
+<h1>I love my india</h1>py 
 
 <p>Auto Deployment</p>
 
